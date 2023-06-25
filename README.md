@@ -1,4 +1,10 @@
-# easy-wallet-flutter-ui
+# gostcoin-flutter
+
+Flutter UI for GOSTCoin.
+
+## Developers Section
+
+### Dev Notes
 
 ```shell
 wget -t0 https://storage.googleapis.com/flutter_infra_release/releases/stable/linux/flutter_linux_3.10.4-stable.tar.xz
