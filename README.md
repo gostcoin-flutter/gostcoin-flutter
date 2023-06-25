@@ -2,6 +2,10 @@
 
 Flutter UI for GOSTCoin.
 
+## Project Status
+
+Work in progress, not released yet
+
 ## Developers Section
 
 ### Dev Notes
