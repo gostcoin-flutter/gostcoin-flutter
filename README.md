@@ -1,6 +1,6 @@
 # gostcoin-flutter
 
-Flutter UI for GOSTCoin.
+GOSTCoin wallet UI written in Flutter.
 
 ## Project Status
 
